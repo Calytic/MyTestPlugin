@@ -2,7 +2,7 @@ namespace uMod.Plugins
 {
     [Info("My Test Plugin", "uMod", "1.0.0")]
     [Description("Test Plugin")]
-    public class MyPlugin : Plugin
+    public class MyTestPlugin : Plugin
     {
         void Load()
         {
