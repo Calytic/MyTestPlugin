@@ -1,6 +1,6 @@
 namespace uMod.Plugins
 {
-    [Info("My Test Plugin", "uMod", "1.0.13")]
+    [Info("My Test Plugin", "uMod", "1.0.14")]
     [Description("Test Plugin")]
     public class MyTestPlugin : Plugin
     {
